@@ -39,7 +39,7 @@ Clone the repo and run exercises step by step:
 ```bash
 git clone https://github.com/MarziehVahdat/transformer-hands-on
 cd transformer-hands-on
-
+```
 ---
 
 ## 📜 License
