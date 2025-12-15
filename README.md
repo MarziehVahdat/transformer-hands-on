@@ -14,12 +14,12 @@ Hands-on coding exercises and projects to practice **Transformers, LLMs, and Gen
 ---
 
 ## 📂 Structure
-01_attention_numpy/ # Scaled dot-product attention 
-02_multihead_attention/ # Multi-head attention 
-03_transformer_block/ # Encoder/decoder block 
-04_huggingface_finetune/ # GPT-2 fine-tuning 
-05_rag_pipeline/ # Retrieval-Augmented Generation 
-06_efficiency/ # KV cache, quantization
+- 01_attention_numpy/ # Scaled dot-product attention 
+- 02_multihead_attention/ # Multi-head attention 
+- 03_transformer_block/ # Encoder/decoder block 
+- 04_huggingface_finetune/ # GPT-2 fine-tuning 
+- 05_rag_pipeline/ # Retrieval-Augmented Generation 
+- 06_efficiency/ # KV cache, quantization
 
 
 ---
